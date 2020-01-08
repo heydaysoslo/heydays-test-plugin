@@ -3,7 +3,7 @@
  * Plugin Name:       Heydays Test Plugin
  * Plugin URI:        https://github.com/heydaysoslo/heydays-test-plugin
  * Description:       A plugin to test automatic updates through GitHub
- * Version:           0.0.3
+ * Version:           0.0.4
  * Author:            Martin Sanne Kristansen
  * Text Domain:       heydays-test-plugin
  * Network:           true
